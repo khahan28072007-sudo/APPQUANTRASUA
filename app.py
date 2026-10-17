@@ -14,6 +14,7 @@ st.set_page_config(
 # Danh sách menu & giá (VND)
 MENU_TEA = {
     "Trà Sữa Truyền Thống": 30000,
+    "Trà sữa Oloong Quế Hoa": 35000,
     "Trà Sữa Trân Châu Đường Đen": 35000,
     "Trà Sữa Thái Xanh": 32000,
     "Trà Sữa Ô Long": 35000,
@@ -21,6 +22,9 @@ MENU_TEA = {
     "Trà Sữa Dâu Tây": 35000,
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
+    "Phindi hạnh nhân": 30000,
+    "Phindi Caramel": 30000,
+    
 }
 
 SIZE_OPTIONS = {
